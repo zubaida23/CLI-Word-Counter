@@ -1,8 +1,7 @@
 #! /usr/bin/env node
-
 // This line is called a shebang, it tells the OS to run it with nodejs
 
-//  import the 'inquirer' module,
+//  import the 'inquirer' module, which is a command line interface for node.js
 import inquirer from "inquirer";
 import chalk  from "chalk";
 
